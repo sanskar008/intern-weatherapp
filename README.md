@@ -4,9 +4,9 @@ Weather Wizard is a beautiful and responsive Flutter application that fetches an
 
 ---
 
-## Video Added - "demo-internapp.mkv"
+## Video Added - "demo_internapp.mp4"
 ---
-
+Demo Video Link - https://github.com/sanskar008/intern-weatherapp/blob/main/demo_internapp.mp4
 ## Setup Instructions
 
 1. **Clone the repository:**
