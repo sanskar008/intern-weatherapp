@@ -4,18 +4,13 @@ Weather Wizard is a beautiful and responsive Flutter application that fetches an
 
 ---
 
-## Screenshots
-
-| Light Mode                             | Dark Mode                            |
-| -------------------------------------- | ------------------------------------ |
-| ![light](assets/screenshots/light.png) | ![dark](assets/screenshots/dark.png) |
-
+## Video Added - "demo_internapp.mp4"
 ---
-
-## 🛠 Setup Instructions
+Demo Video Link - https://github.com/sanskar008/intern-weatherapp/blob/main/demo_internapp.mp4
+## Setup Instructions
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/weather-wizard.git
-   cd weather-wizard
+   git clone https://github.com/sanskar008/intern-weatherapp.git
+   cd intern-weatherapp
    ```
