@@ -6,10 +6,7 @@ Weather Wizard is a beautiful and responsive Flutter application that fetches an
 
 ## Screenshots
 
-| Light Mode                             | Dark Mode                            |
-| -------------------------------------- | ------------------------------------ |
-| ![light](assets/screenshots/light.png) | ![dark](assets/screenshots/dark.png) |
-
+Video added - "demo-internapp.mkv"
 ---
 
 ## 🛠 Setup Instructions
